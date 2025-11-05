@@ -1,0 +1,132 @@
+Disease,Precaution_1,Precaution_2,Precaution_3,Precaution_4
+Drug Reaction,stop irritation,consult nearest hospital,stop taking drug,follow up
+Malaria,Consult nearest hospital,avoid oily food,avoid non veg food,keep mosquitos out
+Allergy,apply calamine,cover area with bandage,,use ice to compress itching
+Hypothyroidism,reduce stress,exercise,eat healthy,get proper sleep
+Psoriasis,wash hands with warm soapy water,stop bleeding using pressure,consult doctor,salt baths
+GERD,avoid fatty spicy food,avoid lying down after eating,maintain healthy weight,exercise
+Chronic cholestasis,cold baths,anti itch medicine,consult doctor,eat healthy
+hepatitis A,Consult nearest hospital,wash hands through,avoid fatty spicy food,medication
+Osteoarthristis,acetaminophen,consult nearest hospital,follow up,salt baths
+(vertigo) Paroymsal  Positional Vertigo,lie down,avoid sudden change in body,avoid abrupt head movment,relax
+Hypoglycemia,lie down on side,check in pulse,drink sugary drinks,consult doctor
+Acne,bath twice,avoid fatty spicy food,drink plenty of water,avoid too many products
+Diabetes ,have balanced diet,exercise,consult doctor,follow up
+Impetigo,soak affected area in warm water,use antibiotics,remove scabs with wet compressed cloth,consult doctor
+Hypertension ,meditation,salt baths,reduce stress,get proper sleep
+Peptic ulcer diseae,avoid fatty spicy food,consume probiotic food,eliminate milk,limit alcohol
+Dimorphic hemmorhoids(piles),avoid fatty spicy food,consume witch hazel,warm bath with epsom salt,consume alovera juice
+Common Cold,drink vitamin c rich drinks,take vapour,avoid cold food,keep fever in check
+Chicken pox,use neem in bathing ,consume neem leaves,take vaccine,avoid public places
+Cervical spondylosis,use heating pad or cold pack,exercise,take otc pain reliver,consult doctor
+Hyperthyroidism,eat healthy,massage,use lemon balm,take radioactive iodine treatment
+Urinary tract infection,drink plenty of water,increase vitamin c intake,drink cranberry juice,take probiotics
+Varicose veins,lie down flat and raise the leg high,use oinments,use vein compression,dont stand still for long
+AIDS,avoid open cuts,wear ppe if possible,consult doctor,follow up
+Paralysis (brain hemorrhage),massage,eat healthy,exercise,consult doctor
+Typhoid,eat high calorie vegitables,antiboitic therapy,consult doctor,medication
+Hepatitis B,consult nearest hospital,vaccination,eat healthy,medication
+Fungal infection,bath twice,use detol or neem in bathing water,keep infected area dry,use clean cloths
+Hepatitis C,Consult nearest hospital,vaccination,eat healthy,medication
+Migraine,meditation,reduce stress,use poloroid glasses in sun,consult doctor
+Bronchial Asthma,switch to loose cloothing,take deep breaths,get away from trigger,seek help
+Alcoholic hepatitis,stop alcohol consumption,consult doctor,medication,follow up
+Jaundice,drink plenty of water,consume milk thistle,eat fruits and high fiberous food,medication
+Hepatitis E,stop alcohol consumption,rest,consult doctor,medication
+Dengue,drink papaya leaf juice,avoid fatty spicy food,keep mosquitos away,keep hydrated
+Hepatitis D,consult doctor,medication,eat healthy,follow up
+Heart attack,call ambulance,chew or swallow asprin,keep calm,
+Pneumonia,consult doctor,medication,rest,follow up
+Arthritis,exercise,use hot and cold therapy,try acupuncture,massage
+Gastroenteritis,stop eating solid food for while,try taking small sips of water,rest,ease back into eating
+Tuberculosis,cover mouth,consult doctor,medication,rest
+Sinusitis,steam inhalation,use saline nasal spray,stay hydrated,consult doctor
+Influenza,rest and fluids,acetaminophen for fever,avoid close contact,seek care if breathing issues
+COVID-19,isolate and rest,wear mask,stay hydrated,seek care if oxygen low
+Strep throat,consult doctor,complete antibiotics,avoid sharing utensils,rest and hydrate
+Otitis media,warm compress on ear,pain reliever,avoid inserting objects,consult doctor
+Conjunctivitis,wash hands often,avoid touching eyes,use lubricating drops,avoid sharing towels
+Migraine with aura,rest in dark room,avoid triggers,NSAIDs or triptan as advised,regular sleep schedule
+Tension headache,adequate sleep,hydration,limit screen time,over-the-counter analgesic if needed
+Cluster headache,avoid alcohol,dark quiet rest,consult specialist,adhere to oxygen therapy if prescribed
+Acute bronchitis,rest and fluids,avoid smoke,humidifier use,seek care if fever persists
+COPD exacerbation,bronchodilators as prescribed,avoid pollutants,controlled breathing exercises,seek urgent care if worsening
+Seasonal allergic rhinitis,avoid allergens,saline nasal rinse,non-drowsy antihistamine,close windows during high pollen
+Atopic dermatitis,regular emollients,lukewarm baths,avoid fragrances,topical steroids as directed
+Urticaria,avoid triggers,non-sedating antihistamine,loose clothing,seek care if swelling of lips/airway
+Cellulitis,elevate affected limb,keep area clean,complete antibiotics,mark edges to monitor spread
+Shingles,keep rash covered,avoid contact with pregnant or immunocompromised,analgesics,antivirals if early
+Scabies,wash bedding hot cycle,apply permethrin cream,trim nails,avoid close contact until treated
+Tinea corporis,keep area dry,topical antifungal,avoid sharing clothing,continue treatment 1–2 weeks after clear
+Bacterial vaginosis,avoid douching,complete antibiotics,limit irritants,use condoms
+Vulvovaginal candidiasis,keep area dry,avoid tight clothing,antifungal cream,limit sugar and irritants
+Acute cystitis,drink plenty water,do not hold urine,avoid spermicides,complete antibiotics
+Pyelonephritis,seek medical care,hydration,complete antibiotics,rest
+Kidney stones,hydrate aggressively,pain control,lemon or citrate intake,strain urine to capture stone
+Acute gastroenteritis,oral rehydration,small frequent sips,bland diet as tolerated,avoid dairy and caffeine initially
+Irritable bowel syndrome,low-FODMAP diet,regular meals,stress reduction,gradual fiber titration
+GERD with laryngitis,avoid late meals,elevate head of bed,limit caffeine and spicy food,weight management
+Nonalcoholic fatty liver disease,weight loss 7–10%,exercise regularly,limit sugary drinks,manage diabetes
+Gallstones (biliary colic),low-fat meals,avoid large fatty meals,pain control,seek care for fever or jaundice
+Acute pancreatitis,seek urgent care,NPO initially,avoid alcohol,hydration
+Irritable bladder,bladder training,limit caffeine,scheduled voiding,pelvic floor exercises
+Benign prostatic hyperplasia,limit evening fluids,reduce caffeine or alcohol,double voiding,consult urologist
+Anxiety disorder,breathing exercises,reduce caffeine,regular sleep,seek CBT consult
+Depression,regular routine,physical activity,avoid alcohol,seek counseling and follow-up
+Insomnia,consistent sleep schedule,limit screens before bed,avoid naps,caffeine cut-off afternoon
+Iron-deficiency anemia,iron-rich diet with vitamin C,avoid tea or coffee with iron,iron supplements as directed,screen for bleeding
+Vitamin D deficiency,safe sun exposure,vitamin D supplementation,weight-bearing exercise,ensure calcium intake
+Hypocalcemia,calcium-rich foods,vitamin D optimization,avoid phosphate sodas,medication adherence
+Hypokalemia,foods high in potassium,review diuretics with clinician,oral supplements if prescribed,monitor if symptomatic
+Gout,avoid purine-rich foods,limit alcohol especially beer,hydrate,NSAIDs as directed
+Rheumatoid arthritis,joint-friendly exercises,heat or cold therapy,medication adherence,stop smoking
+Sciatica,activity modification,NSAIDs if appropriate,core strengthening,avoid heavy lifting
+Low back strain,relative rest 24–48h,heat application,stretching after pain improves,proper lifting technique
+Carpal tunnel syndrome,neutral wrist splint,limit repetitive strain,stretch breaks,ergonomic setup
+Plantar fasciitis,calf and plantar stretches,supportive footwear,ice massage,limit prolonged standing
+Sleep apnea suspicion,avoid alcohol at night,side-sleeping,weight management,seek sleep study
+Hyponatremia (mild),fluid restriction if advised,review meds with clinician,monitor symptoms,seek care if confusion
+Tinea capitis,antifungal shampoo,oral antifungals if prescribed,avoid sharing combs,clean hats and bedding
+Otitis externa,keep ear dry,acidifying drops as advised,avoid cotton swabs,earplugs while swimming
+Pityriasis rosea,avoid hot showers,soothing lotions,short light sun exposure,antihistamine for itch
+Hand-foot-and-mouth disease,fluids and rest,soft foods,hand hygiene,avoid close contact until fever resolves
+Roseola,fluids and rest,light clothing for fever,monitor for rash,seek care if seizures
+Pertussis (whooping cough),isolate,complete antibiotics,humidified air,vaccination for contacts
+Mononucleosis,avoid contact sports,rest and hydration,NSAIDs for pain,do not share utensils
+Lyme disease (early),remove tick promptly,monitor rash,seek antibiotics,protective clothing in tick areas
+Heat exhaustion,move to cool area,oral rehydration,cool compresses,avoid exertion 24 hours
+Dehydration,oral rehydration solution,small frequent sips,avoid alcohol or caffeine,seek care if dizziness persists
+Food poisoning,rest bowel initially,ORS,avoid anti-diarrheals if bloody stool,seek care if high fever
+Preeclampsia suspicion,seek urgent care,rest on left side,monitor blood pressure,avoid high-salt foods
+Polycystic ovary syndrome,balanced diet and exercise,weight management,limit refined carbs,regular follow-up
+Dysmenorrhea,heat therapy,NSAIDs as needed,regular exercise,reduce caffeine
+Endometriosis,heat therapy,regular low-impact exercise,follow medical plan,track pain cycles
+Anemia of chronic disease,manage underlying illness,balanced diet,medication adherence,regular labs
+Thyroiditis (subacute),NSAIDs or steroids as directed,rest,avoid strenuous activity,follow thyroid labs
+B12 deficiency,B12-rich foods or supplements,limit alcohol,check for pernicious anemia,regular follow-up
+Lactose intolerance,limit lactose,use dairy alternatives,enzyme tablets as needed,monitor calcium intake
+Celiac disease,strict gluten-free diet,read labels carefully,screen for deficiencies,dietitian consult
+Hemorrhoids,high-fiber diet,increase water intake,warm sitz baths,avoid straining
+Anal fissure,stool softeners,high-fiber diet,warm sitz baths,topical anesthetic if advised
+Psoriatic arthritis,low-impact exercise,skin and joint care plan,smoking cessation,medication adherence
+Lupus (SLE),sun protection,balanced rest and activity,medication adherence,monitor flares
+Eczema herpeticum suspicion,seek urgent care,avoid topical steroids on lesions,cover lesions,hand hygiene
+Bacterial sinusitis,consult doctor,saline irrigation,analgesics,complete antibiotics if prescribed
+Pneumothorax suspicion,seek emergency care,avoid exertion,do not fly until cleared,monitor breathing
+Arrhythmia palpitations,avoid stimulants,vagal maneuvers if instructed,medication adherence,seek urgent care if syncope
+Heart failure (stable),low-salt diet,daily weight check,fluid management per plan,medication adherence
+Stable angina,limit exertion during pain,nitroglycerin as prescribed,avoid cold exposure,seek care if pain persists
+Peripheral artery disease,walking program,foot care,smoking cessation,manage cholesterol
+Hypothermia,mild rewarming,dry clothing,warm sweet drinks if alert,seek medical care
+Frostbite,rewarm gradually,avoid rubbing,protect blisters,seek medical care
+Animal bite,wash with soap and water,seek rabies assessment,update tetanus,avoid wound closure unless advised
+Insect sting allergy,remove stinger quickly,ice pack,antihistamine,seek emergency care for breathing issues
+Poison ivy dermatitis,wash skin and clothes,avoid scratching,topical steroids,calamine lotion
+Traveler’s diarrhea,bottled or boiled water,ORS,avoid street salads,consider antibiotics if severe
+Altitude sickness,ascend gradually,rest at symptoms,acetazolamide if advised,descend if worsening
+Motion sickness,face forward and fix gaze,avoid heavy meals,antihistamine or scopolamine as advised,ventilation
+Epistaxis,lean forward and pinch nose,ice on bridge,avoid nose blowing after,humidify air
+Dental abscess,warm saltwater rinses,avoid very hot or cold foods,pain control,urgent dental visit
+Gingivitis,brush and floss daily,antimicrobial mouthwash,avoid tobacco,professional cleaning
+Oral thrush,rinse mouth after inhaled steroids,limit sugar,antifungal lozenges,keep dentures clean
+BPPV relapse,avoid sudden head turns,Epley maneuver guidance,sleep with head elevated,vestibular therapy
